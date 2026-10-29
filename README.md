@@ -31,7 +31,7 @@ ChooBro is an early preview and is not Developer ID signed or notarized by Apple
 
 ## Release updates
 
-This tap currently provides ChooBro v0.1.2. Automatic release updates are not connected yet.
+Published releases and DMG downloads are available in the [ChooBro repository](https://github.com/miguelcaravantes/choobro/releases). This tap's cask is updated after the published DMG checksum is verified.
 
 ## License
 
