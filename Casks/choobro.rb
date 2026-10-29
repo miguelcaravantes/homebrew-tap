@@ -1,6 +1,6 @@
 cask "choobro" do
-  version "0.1.3"
-  sha256 "eb7c3546f6453803b803e3540440b2536ee49cb53a61efd8188e3feb3a732944"
+  version "0.1.4"
+  sha256 "1e5538a9ab44d5d1f9f48a2d1269998656f8629d24b1e33776babcc07bc39499"
 
   url "https://github.com/miguelcaravantes/choobro/releases/download/v#{version}/ChooBro-#{version}-macos-arm64.dmg"
   name "ChooBro"
