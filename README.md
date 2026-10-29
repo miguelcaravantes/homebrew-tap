@@ -29,9 +29,9 @@ brew upgrade --cask miguelcaravantes/tap/choobro
 
 ChooBro is an early preview and is not Developer ID signed or notarized by Apple. This cask removes the `com.apple.quarantine` attribute only from ChooBro.app to avoid its quarantine-triggered first-launch warning. It does not disable Gatekeeper globally or make the app Apple-verified. Install only if you trust the project; managed Macs may still block it.
 
-## Existing installations
+## Release updates
 
-If you installed through `miguelcaravantes/choobro/choobro`, keep using that tap for now. Do not install a second copy from this tap. The original tap remains available; migration and automatic release updates for this new tap are not configured yet.
+This tap currently provides ChooBro v0.1.2. Automatic release updates are not connected yet.
 
 ## License
 
